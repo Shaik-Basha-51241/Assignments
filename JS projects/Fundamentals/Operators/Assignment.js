@@ -1,0 +1,10 @@
+let a = 5;
+a = 24;
+let b = 12;
+console.log(a);
+console.log(a+=b);
+console.log(a-=b);
+console.log(a/=b);
+console.log(a%=b);
+console.log(a*=b);
+console.log(a**=b);
